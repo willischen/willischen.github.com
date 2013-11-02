@@ -1,1 +1,3 @@
-markdown: maruku
+name: willischen tech blog
+markdown: redcarpet
+pygments: true
