@@ -1,3 +1,9 @@
-name: willischen tech blog
-markdown: redcarpet
+markdown: rdiscount
+permalink: /:year/:month/:day/:title/
+url: http://willischen.github.com
+author: willischen
 pygments: true
+safe: true
+paginate: 16
+auto: true
+
