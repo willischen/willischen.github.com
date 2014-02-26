@@ -1,0 +1,51 @@
+td { font-size: 12px; font-family: "宋体"} 
+
+a {
+	text-decoration: 
+none;
+	font-family: "宋体";
+	font-size: 12px;
+	color: #000000;
+} 
+
+a:hover {
+	color: #FF0000;
+	font-family: "宋体";
+	font-size: 12px;
+	background-color: #FFFF99;
+} 
+.button {
+	BACKGROUND-COLOR: #cccccc;
+	BORDER-BOTTOM: 1px ridge;
+	BORDER-LEFT: #ffffff 1px ridge;
+	BORDER-RIGHT: 1px ridge;
+	BORDER-TOP: #ffffff 1px ridge;
+	height: 17px;
+	font-size: 12px;
+	padding-top: -1px;
+	font-family: "宋体";
+
+
+}
+.company {
+	font-family: "宋体";
+	font-size: 12px;
+	line-height: 200%;
+}
+.address {
+	font-family: "宋体";
+	font-size: 12px;
+	line-height: 150%;
+}
+.contact {
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 14px;
+	line-height: 190%;
+	font-weight: bold;
+
+}
+.model {
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+	font-size: 14px;
+	font-weight: bold;
+}
